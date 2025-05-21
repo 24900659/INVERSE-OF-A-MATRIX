@@ -16,7 +16,9 @@ Display the result using the print() function.
 
 ## Program:
 #Program to find the inverse of a matrix.
+
 #Developed by: Mohana K.V.S.L
+
 #RegisterNumber: 24900659
 
 import numpy as np
