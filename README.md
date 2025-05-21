@@ -18,6 +18,7 @@ Display the result using the print() function.
 #Program to find the inverse of a matrix.
 #Developed by: Mohana K.V.S.L
 #RegisterNumber: 24900659
+
 import numpy as np
 
 a = np.array([[6,2,3], [3,1,1,], [10,3,4]])
@@ -25,6 +26,7 @@ a = np.array([[6,2,3], [3,1,1,], [10,3,4]])
 b= np.linalg.inv(a)
 
 print(b)
+
 
 ## Output:
 ![Screenshot 2025-05-16 193951](https://github.com/user-attachments/assets/a3512063-9494-4974-9564-6c8b1ef3b447)
